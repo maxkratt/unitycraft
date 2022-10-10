@@ -13,5 +13,6 @@ https://trello.com/b/TyiJu7vm/unitycraft
 - [Unity3D Game Engine](https://unity.com/ "Unity3D Game Engine")
 - [FishNet - Unity Networking Evolved](https://github.com/FirstGearGames/FishNet "FishNet Multiplayer Networking")
 - [FastNoise Lite](https://github.com/Auburn/FastNoiseLite "FastNoise Lite")
+- [ParrelSync](https://github.com/VeriorPies/ParrelSync "ParrelSync")
 - [SpriteLightKit](https://github.com/prime31/SpriteLightKit "SpriteLightKit")
 - [RetroSuite3D](https://github.com/oxysoft/RetroSuite3D "RetroSuite3D")
