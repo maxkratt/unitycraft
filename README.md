@@ -11,6 +11,7 @@ https://trello.com/b/TyiJu7vm/unitycraft
 - Markus "Notch" Persson
 - Max Kratt
 - [Unity3D Game Engine](https://unity.com/ "Unity3D Game Engine")
-- [FishNet Multiplayer Networking](https://github.com/FirstGearGames/FishNet "FishNet Multiplayer Networking")
+- [FishNet - Unity Networking Evolved](https://github.com/FirstGearGames/FishNet "FishNet Multiplayer Networking")
+- [FastNoise Lite](https://github.com/Auburn/FastNoiseLite "FastNoise Lite")
 - [SpriteLightKit](https://github.com/prime31/SpriteLightKit "SpriteLightKit")
 - [RetroSuite3D](https://github.com/oxysoft/RetroSuite3D "RetroSuite3D")
